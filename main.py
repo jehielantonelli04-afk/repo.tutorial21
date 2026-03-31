@@ -1,5 +1,5 @@
 print("hola ")
 
-nombre = input("Ingrese el nombre")
+nombre = input("Ingrese el nombre: ")
 
-print(f"hola {nombre}")
+print(f"hola {nombre}, bienvenido a main")
